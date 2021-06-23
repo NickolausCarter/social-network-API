@@ -1,5 +1,5 @@
 {
-  "name": "social-network-API",
+  "name": "social-network-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -19,6 +19,7 @@
   "homepage": "https://github.com/NickolausCarter/social-network-API#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "moment": "^2.29.1",
     "mongoose": "^5.12.14"
   }
 }
